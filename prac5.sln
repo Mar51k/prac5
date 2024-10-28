@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prac5", "prac5\prac5.csproj", "{7EFEBB83-3001-4367-A0D1-54133B9A5DA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashPassword", "HashPassword\HashPassword.csproj", "{2309908D-E2BF-4907-AEA1-C4B67D65A480}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EFEBB83-3001-4367-A0D1-54133B9A5DA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EFEBB83-3001-4367-A0D1-54133B9A5DA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EFEBB83-3001-4367-A0D1-54133B9A5DA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EFEBB83-3001-4367-A0D1-54133B9A5DA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2309908D-E2BF-4907-AEA1-C4B67D65A480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2309908D-E2BF-4907-AEA1-C4B67D65A480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2309908D-E2BF-4907-AEA1-C4B67D65A480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2309908D-E2BF-4907-AEA1-C4B67D65A480}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5A97C00-4F8A-4EDE-A18E-37BE7343D734}
+	EndGlobalSection
+EndGlobal
